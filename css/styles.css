@@ -2,10 +2,10 @@
 
 :root {
 	--gradient-background: linear-gradient(
-		#98fb98,
-		#00fa9A,
-		#66cdaa,
-		#48d1cc,
+		#98fb98
+		#00fa9a
+		#66cdaa
+		#48d1cc
 	);
 	--shadow-brandname: 0.03em 0.03em #ffee00, -0.03em -0.03em #ff0080,
 		-0.03em 0.03em #dd7cf5, 0.03em -0.03em #00ffc8;
