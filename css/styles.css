@@ -21,7 +21,7 @@
 
 body {
 	background-image: var(--gradient-background);
-	font-family: cursive;
+	font-family: unset;
 }
 
 .grid {
